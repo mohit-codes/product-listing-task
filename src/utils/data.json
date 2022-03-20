@@ -1,0 +1,92 @@
+[
+    {
+      "id": 100,
+      "brand": "ADIDAS",
+      "sizes": ["XS", "S", "M", "L", "XL"],
+      "idealFor": "Men",
+      "productName": "Solid Green Track pants",
+      "price": 2699,
+      "imageUrl":
+        "https://rukminim2.flixcart.com/image/556/667/kulk9zk0/track-pant/i/t/d/m-h14652-adidas-original-imag7zzyahhghnfd.jpeg?q=50"
+    },
+    {
+      "id": 101,
+      "brand": "ADIDAS",
+      "sizes": ["S", "M", "XL"],
+      "idealFor": "Men",
+      "productName": "Striped Round Neck T-Shirt",
+      "price": 699,
+      "imageUrl":
+        "https://rukminim2.flixcart.com/image/556/667/kxf0jgw0/t-shirt/o/v/p/s-hc3903-adidas-original-imag9vafqtzdyzhu.jpeg?q=50"
+    },
+    {
+      "id": 102,
+      "brand": "JUNEBERRY",
+      "sizes": ["L", "S", "M"],
+      "idealFor": "Women",
+      "productName": "Printed Women T-Shirt",
+      "price": 324,
+      "imageUrl":
+        "https://rukminim2.flixcart.com/image/556/667/ktep2fk0/t-shirt/g/s/r/s-jb-1204-pitties-juneberry-original-imag6re3tphz8znz.jpeg?q=50"
+    },
+    {
+      "id": 103,
+      "brand": "JUNEBERRY",
+      "sizes": ["L", "S"],
+      "idealFor": "Women",
+      "productName": "Round Neck Women T-Shirt",
+      "price": 200,
+      "imageUrl":
+        "https://rukminim2.flixcart.com/image/556/667/ksc46fk0/t-shirt/t/y/p/xs-wmb-girls-shoppie-original-imag5xe3sdhgg8sg.jpeg?q=50"
+    },
+    {
+      "id": 104,
+      "brand": "ADIDAS",
+      "sizes": ["XS", "S", "M"],
+      "idealFor": "Women",
+      "productName": "Solid Round Neck Women T-Shirt",
+      "price": 160,
+      "imageUrl":
+        "https://rukminim2.flixcart.com/image/556/667/kq43iq80/top/d/h/s/xs-upt-try-this-original-imag46vymjsvgun8.jpeg?q=50"
+    },
+    {
+      "id": 105,
+      "brand": "EYEBOGLER",
+      "sizes": ["S", "M", "XL"],
+      "idealFor": "Men",
+      "productName": "Striped Polo Neck T-Shirt",
+      "price": 299,
+      "imageUrl":
+        "https://rukminim2.flixcart.com/image/556/667/kzegk280/t-shirt/r/o/t/s-t285hs-as7whdngr-eyebogler-original-imagbfygwtubscjw.jpeg?q=50"
+    },
+    {
+      "id": 106,
+      "brand": "EYEBOGLER",
+      "sizes": ["S", "M", "XL"],
+      "idealFor": "Men",
+      "productName": "Striped Casual Shirt",
+      "price": 200,
+      "imageUrl":
+        "https://rukminim2.flixcart.com/image/556/667/kmccosw0/shirt/t/l/2/xl-men-regular-super-slim-fit-striped-casual-shirt-icome-original-imagf9q2epye5kks.jpeg?q=50"
+    },
+    {
+      "id": 107,
+      "brand": "ICOME",
+      "sizes": ["S", "L", "XL"],
+      "idealFor": "Men",
+      "productName": "Striped Casual Shirt",
+      "price": 331,
+      "imageUrl":
+        "https://rukminim2.flixcart.com/image/556/667/kmccosw0/shirt/t/x/z/xxl-lycra-cotton-dinosaur-animal-printed-full-stitched-short-original-imagf9zmh28crr7k.jpeg?q=50"
+    },
+    {
+      "id": 108,
+      "brand": "ICOME",
+      "sizes": ["S", "XL"],
+      "idealFor": "Men",
+      "productName": "Fit Regular Casual Shirt",
+      "price": 350,
+      "imageUrl":
+        "https://rukminim2.flixcart.com/image/556/667/klv7ekw0/shirt/e/n/b/xl-cotton-checkered-casual-shirt-for-men-casual-and-daily-wear-original-imagyw3sxurpzuw5.jpeg?q=50"
+    }
+  ]
